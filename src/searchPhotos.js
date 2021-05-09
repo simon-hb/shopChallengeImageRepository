@@ -34,6 +34,7 @@ export default function SearchPhotos() {
           placeholder={`Search for an object`}
           value={query}
           onChange={(e) => setQuery(e.target.value)}
+          data-testid="search-input"
         />
         <button type="submit" className="button">
           Search
