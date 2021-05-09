@@ -1,10 +1,10 @@
 # Image Repository
 
-![Alt text](/simon-hb/shopChallengeImageRepository/blob/master/public/Screen%20Shot%202021-05-07%20at%207.15.56%20PM.png?raw=true "Initial View")
+![Alt text](/public/Screen%20Shot%202021-05-07%20at%207.15.56%20PM.png?raw=true "Initial View")
 
-![Alt text](/simon-hb/shopChallengeImageRepository/blob/master/public/Screen%20Shot%202021-05-07%20at%207.18.01%20PM.png?raw=true "Flower Search Desktop View")
+![Alt text](/public/Screen%20Shot%202021-05-07%20at%207.18.01%20PM.png?raw=true "Flower Search Desktop View")
 
-![Alt text](/simon-hb/shopChallengeImageRepository/blob/master/public/Screen%20Shot%202021-05-07%20at%207.19.21%20PM.pngraw=true "Mobile View")
+![Alt text](/public/Screen%20Shot%202021-05-07%20at%207.19.21%20PM.pngraw=true "Mobile View")
 
 This project was created using react and the unsplash-api. It is an image repository where users can search for an image. Each image in the unsplash library has descriptive text which is searched using our query. First 10 images are displayed on the screen. Unit tests were done using react testing library.
 
