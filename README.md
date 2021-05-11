@@ -6,9 +6,9 @@
 
 ![Alt text](/public/Screen%20Shot%202021-05-07%20at%207.19.21%20PM.png?raw=true "Mobile View")
 
-This project was created using react and the unsplash-api. It is an image repository where users can search for an image. Each image in the unsplash library has descriptive text which is searched using our query. First 10 images are displayed on the screen. Unit tests were done using react testing library.
+This project was created using react and the unsplash-api. It is an image repository where users can search for an image. Each image in the unsplash library has descriptive text which is searched using our query. First 10 images are displayed on the screen. Unit tests were done using react testing library. 
 
-Run npm start in the root directory to play with the application or npm test to see the results of the tests.
+Run npm install in the root directory. Then npm start to play with the application or npm test to see the results of the tests.
 
 # Getting Started with Create React App
 
